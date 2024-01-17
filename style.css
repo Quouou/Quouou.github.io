@@ -9,6 +9,9 @@ html{
     -o-background-size: cover;
     background-size: cover;
 }
+:root{
+    --animate-delay:3s;
+}
 hr {
     margin: 20px auto;
     color: #DCD6CE;
