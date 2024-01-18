@@ -10,7 +10,7 @@ html{
     background-size: cover;
 }
 :root{
-    --animate-delay:3s;
+    --animate-delay:25s;
 }
 hr {
     margin: 20px auto;
